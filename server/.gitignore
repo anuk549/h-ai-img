@@ -1,1 +1,32 @@
 node_modules
+# Node.js related files
+node_modules/
+
+# Compiled binary addons (if any)
+/build/
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Editor specific files
+.vscode/
+*.sublime-workspace
+
+# Logs
+logs
+*.log
+
+# Dependency directory
+# Commented out because some projects
+# may use this as a dependency directory
+# Change this if it's not the case
+# dependencies/
+
+# Environment variables file
+
+
+# Cache directories
+.cache/
